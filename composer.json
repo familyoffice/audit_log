@@ -1,0 +1,18 @@
+{
+  "name": "drupal/audit_log",
+  "type": "drupal-module",
+  "description": "Provides a framework with swappable storage for logging entity audit events.",
+  "keywords": [
+      "Drupal"
+  ],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/audit_log",
+  "minimum-stability": "dev",
+  "support": {
+      "issues": "https://www.drupal.org/project/issues/audit_log",
+      "source": "http://cgit.drupalcode.org/audit_log"
+  },
+  "require": {
+    "drupal/core": "^9 || ^10"
+  }
+}
